@@ -16,3 +16,13 @@ function whileLoop(n) {
   }
   return "done";
 }
+
+function maybeTrue() {
+  array.push();
+}
+
+function doWhileLoop(array) {
+do {
+  return array;
+} while (array.length > 0 && maybeTrue(true));
+}
